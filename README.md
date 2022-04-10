@@ -11,4 +11,4 @@ https://data.world/health/death-rates-for-major-causes
 > - Pandas
 
 ## Graph Result
-![Graph Result](https://raw.githubusercontent.com/VosMovok/Death-Rates-for-Major-Causes/main/Data/Figure%201.png)
+![Graph Result](https://github.com/VosMovok/Death-Rates-for-Major-Causes/blob/main/Chart%20Figure/Figure%201.png?raw=true)
