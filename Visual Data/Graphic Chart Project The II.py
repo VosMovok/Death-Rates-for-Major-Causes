@@ -6,7 +6,7 @@ import numpy as np
 import os
 
 # Import CSV file from github repo to dataframe. Source "https://data.world/health/death-rates-for-major-causes"
-data = pd.read_csv("https://raw.githubusercontent.com/VosMovok/Death-Rates-for-Major-Causes/main/data/rows.csv", skiprows=81)
+data = pd.read_csv("https://raw.githubusercontent.com/VosMovok/Death-Rates-for-Major-Causes/main/data/rows.csv", skiprows=82)
 
 # Convert df to csv file again as I don't know how to append that
 df = pd.DataFrame(data)
